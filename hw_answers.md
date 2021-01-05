@@ -51,4 +51,4 @@ Drivers are used to allow computer OS' communicate with a particular device. In 
 Extension
 =========
 
-ObjectId is used to identify the specific 'row'/record that is to be processed. It is the key for that row/record.
+ObjectId is used to identify the specific 'row'/record that is to be processed. It is like the key for that row/record.
