@@ -46,3 +46,9 @@ Not entirely sure what this question is asking. "/"?
 8. What are we using the [MongoDB Driver](http://mongodb.github.io/node-mongodb-native/) for?
 
 Drivers are used to allow computer OS' communicate with a particular device. In the case of the mongoDB driver, I expect it will allow the underlying OS (on the server-side) to communicate (effectively) with the mongoDD that is installed on the system. This will be to allow node.js/express.js to access the data correctly. 
+
+
+Extension
+=========
+
+ObjectId is used to identify the specific 'row'/record that is to be processed. It is the key for that row/record.
