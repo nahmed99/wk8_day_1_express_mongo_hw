@@ -40,7 +40,9 @@ It uses the second argument to pass details of specific requests to the server. 
 
 7. Which of the games API routes does the front-end application consume (i.e. make requests to)?
 
-Not entirely sure what this question is asking. "/"?
+- GET
+- POST
+- DELETE
 
 
 8. What are we using the [MongoDB Driver](http://mongodb.github.io/node-mongodb-native/) for?
